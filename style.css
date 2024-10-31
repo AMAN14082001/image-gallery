@@ -78,4 +78,9 @@ body {
         flex-direction: column;
         padding-block: 20;
     }
+
+    .box {
+        grid-row: span 1;
+        grid-column: span 3;
+    }
 }
